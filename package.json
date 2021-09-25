@@ -1,0 +1,22 @@
+{
+  "name": "dgraph-schemer",
+  "version": "0.1.0",
+  "description": "Create your Dgraph schema via TypeScript classes and decorators! Handles migration as well!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoyws/dgraph-schemer.git"
+  },
+  "keywords": [
+    "dgraph"
+  ],
+  "author": "geoyws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoyws/dgraph-schemer/issues"
+  },
+  "homepage": "https://github.com/geoyws/dgraph-schemer#readme"
+}
