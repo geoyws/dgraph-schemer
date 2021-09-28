@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/geoyws/dgraph-schemer/issues"
   },
-  "homepage": "https://github.com/geoyws/dgraph-schemer#readme"
+  "homepage": "https://github.com/geoyws/dgraph-schemer#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
