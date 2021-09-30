@@ -1,2 +1,11 @@
 # dgraph-schemer
-Dgraph schema generator via TypeScript classes and decorators! (Migrations too!)
+
+Generate your Dgraph schema and queries via TypeScript!
+
+## Build with Decorators
+
+Everything is built via decorators:
+
+```TypeScript
+  
+```
